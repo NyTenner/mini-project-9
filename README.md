@@ -1,7 +1,11 @@
 ## Submission
+
 Assignment: Mini-Project 9: Bit trees and Braille 
+
 Author: Nye Tenerelli
+
 Assigned: Wednesday, 17 April 2024
+
 Class: CSC-207
 
 
